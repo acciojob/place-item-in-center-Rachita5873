@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+.p{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
