@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
 
-.p{
+.holder{
+	height:100vh;
 	display: flex;
 	justify-content: center;
-	text-align: center;
+	align-items: center;
 }
